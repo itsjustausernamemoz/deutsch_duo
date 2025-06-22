@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720780090479",
+    "project_id": "deutsch-duo",
+    "storage_bucket": "deutsch-duo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720780090479:android:9eb7c5f3a81f36f40a819a",
+        "android_client_info": {
+          "package_name": "com.example.deutsch_duo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyyjn7cT1-cOjpZsWbd41Km45iSdauEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
